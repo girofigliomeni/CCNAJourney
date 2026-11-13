@@ -1,7 +1,9 @@
 # CLI Fundamentals
 
-CCNA study notes and verified SwitchLab exercises for this topic.
+SwitchLab lessons and verified CLI exercises.
 
-## Labs
+## Completed lessons
 
-No labs documented yet.
+| Lesson | Topics | Evidence |
+| --- | --- | --- |
+| [01: First Contact](lesson-01-first-contact.md) | EXEC modes, `enable`, `?`, `configure terminal` | Screen recording; 4/4 objectives |
