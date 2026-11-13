@@ -1,33 +1,27 @@
 # Lab: [Title]
 
-| Field | Details |
-| --- | --- |
-| SwitchLab lesson | [Lesson or lab name] |
-| Date | YYYY-MM-DD |
-| Status | In progress / Verified / Needs review |
+## Overview
 
-## Objective
-
-[Describe the intended result.]
+[Brief summary of the networking topic and objective.]
 
 ## Topology
 
-[Devices, interfaces, addressing, and diagram if available.]
+[Devices, interfaces, and addressing where relevant.]
 
 ## Configuration
 
 ```text
-[Sanitized Cisco IOS commands]
+[Cisco IOS commands]
 ```
 
 ## Verification
 
-[Commands, observed output, and tests. Do not assume success.]
+[Relevant show commands, test results, and observations.]
 
 ## Troubleshooting
 
-[Issues, diagnosis, and resolution.]
+[Issues encountered and how they were resolved, if applicable.]
 
-## Findings
+## Key Takeaways
 
-[What this lab demonstrated and what to review.]
+[Technical concepts and lessons learned.]
