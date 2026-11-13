@@ -1,21 +1,14 @@
-# Lesson 1: First Contact
+# 01: First Contact
 
-| Field | Details |
-| --- | --- |
-| Platform | SwitchLab |
-| Level | Beginner |
-| Status | Completed (4/4 objectives shown) |
-| Evidence | Screen recording, November 13, 2026 |
+## Overview
 
-## Objective
-
-Become familiar with the Cisco IOS command-line interface by moving from user EXEC mode to privileged EXEC mode, using context-sensitive help, and entering global configuration mode.
+Introduction to the Cisco IOS command-line interface (CLI), including command modes and context-sensitive help.
 
 ## Topology
 
-A SWITCH connects an ADMIN PC and a TEST PC through interfaces G0/1 and G0/2. Both interfaces were shown connected. This lab focuses on CLI navigation, not modifying the network topology.
+A switch connected to an admin PC and a test PC through interfaces G0/1 and G0/2.
 
-## Commands observed
+## Commands
 
 ```text
 Switch> enable
@@ -24,18 +17,22 @@ Switch# configure terminal
 Switch(config)#
 ```
 
-- `enable` enters privileged EXEC mode (`Switch#`).
-- `?` lists commands available in the current context.
-- `configure terminal` enters global configuration mode (`Switch(config)#`).
+| Command | Purpose |
+| --- | --- |
+| `enable` | Enter privileged EXEC mode |
+| `?` | Display available commands in the current mode |
+| `configure terminal` | Enter global configuration mode |
 
-## Verification
+## Key Concepts
 
-The recording shows all four SwitchLab objectives completed and the lab completion dialog. The visible terminal prompt confirms entry into global configuration mode. No additional device configuration or connectivity tests are claimed.
+Cisco IOS uses different command modes to separate monitoring and configuration tasks:
 
-## Findings
+- **User EXEC (`Switch>`)**: Basic commands and limited access.
+- **Privileged EXEC (`Switch#`)**: Additional diagnostic and administrative commands.
+- **Global configuration (`Switch(config)#`)**: Device-wide configuration commands.
 
-The Cisco IOS prompt indicates the current command mode. Context-sensitive help helps discover valid commands without memorizing every option.
+The CLI prompt indicates the active mode. Context-sensitive help can be used to discover available commands and syntax.
 
-## Evidence notes
+## Result
 
-Based on the submitted 55-second screen recording. Only visibly supported actions and outcomes are documented.
+Successfully navigated from user EXEC mode to privileged EXEC mode and then to global configuration mode.
