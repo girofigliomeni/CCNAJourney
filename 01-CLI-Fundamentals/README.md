@@ -16,3 +16,4 @@ SwitchLab lessons and Cisco IOS command-line exercises.
 | [08: Read the Switch - Interfaces](lesson-08-read-the-switch-interfaces.md) | Interface status, `show ip interface brief`, `no shutdown` |
 | [09: Save Your Work](lesson-09-save-your-work.md) | Startup configuration, saving changes, verification |
 | [10: Test 1 - Investigate](lesson-10-test-1-investigate.md) | Configuration inspection, VLAN recovery, interface enablement, saving |
+| [11: Leave a Note](lesson-11-leave-a-note.md) | MOTD banner, login display, running configuration |
