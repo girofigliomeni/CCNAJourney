@@ -12,3 +12,4 @@ SwitchLab lessons and Cisco IOS command-line exercises.
 | [04: Find Your Way Around](lesson-04-find-your-way-around.md) | Interface and VLAN configuration modes, `exit` |
 | [05: Type Smart, Not Hard](lesson-05-type-smart-not-hard.md) | Command abbreviations, Tab completion, history, ambiguity |
 | [06: Read the Switch - VLANs](lesson-06-read-the-switch-vlans.md) | `show vlan brief`, VLAN membership, interface shutdown |
+| [07: Make and Undo](lesson-07-make-and-undo.md) | Create and remove VLANs, `no vlan`, `show vlan brief` |
