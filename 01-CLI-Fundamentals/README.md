@@ -19,3 +19,4 @@ SwitchLab lessons and Cisco IOS command-line exercises.
 | [11: Leave a Note](lesson-11-leave-a-note.md) | MOTD banner, login display, running configuration |
 | [12: Security First](lesson-12-security-first.md) | Privileged EXEC password, authentication, `enable secret` |
 | [13: Lock the Door](lesson-13-lock-the-door.md) | `enable secret`, console password, `login`, authentication |
+| [14: Where is the Remote](lesson-14-where-is-the-remote.md) | VTY lines 0–4, remote access password, `login` |
