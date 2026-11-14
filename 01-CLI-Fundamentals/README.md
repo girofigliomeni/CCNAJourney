@@ -1,9 +1,10 @@
 # CLI Fundamentals
 
-SwitchLab lessons and verified CLI exercises.
+SwitchLab lessons and Cisco IOS command-line exercises.
 
-## Completed lessons
+## Lessons
 
-| Lesson | Topics | Evidence |
-| --- | --- | --- |
-| [01: First Contact](lesson-01-first-contact.md) | EXEC modes, `enable`, `?`, `configure terminal` | Screen recording; 4/4 objectives |
+| Lesson | Topics |
+| --- | --- |
+| [01: First Contact](lesson-01-first-contact.md) | EXEC modes, `enable`, `?`, `configure terminal` |
+| [02: Give It a Name](lesson-02-give-it-a-name.md) | Hostnames, configuration modes, `show running-config` |
