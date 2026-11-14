@@ -17,3 +17,4 @@ SwitchLab lessons and Cisco IOS command-line exercises.
 | [09: Save Your Work](lesson-09-save-your-work.md) | Startup configuration, saving changes, verification |
 | [10: Test 1 - Investigate](lesson-10-test-1-investigate.md) | Configuration inspection, VLAN recovery, interface enablement, saving |
 | [11: Leave a Note](lesson-11-leave-a-note.md) | MOTD banner, login display, running configuration |
+| [12: Security First](lesson-12-security-first.md) | Privileged EXEC password, authentication, `enable secret` |
