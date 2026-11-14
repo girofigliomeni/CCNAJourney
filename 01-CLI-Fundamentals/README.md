@@ -11,3 +11,4 @@ SwitchLab lessons and Cisco IOS command-line exercises.
 | [03: Learning From Errors](lesson-03-learning-from-errors.md) | IOS syntax errors, incomplete commands, command modes, `do` |
 | [04: Find Your Way Around](lesson-04-find-your-way-around.md) | Interface and VLAN configuration modes, `exit` |
 | [05: Type Smart, Not Hard](lesson-05-type-smart-not-hard.md) | Command abbreviations, Tab completion, history, ambiguity |
+| [06: Read the Switch - VLANs](lesson-06-read-the-switch-vlans.md) | `show vlan brief`, VLAN membership, interface shutdown |
