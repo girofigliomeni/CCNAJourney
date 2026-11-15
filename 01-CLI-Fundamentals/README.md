@@ -22,3 +22,4 @@ SwitchLab lessons and Cisco IOS command-line exercises.
 | [14: Where is the Remote](lesson-14-where-is-the-remote.md) | VTY lines 0–4, remote access password, `login` |
 | [15: Configure Your First Switch](lesson-15-configure-your-first-switch.md) | Hostname, local account, console and VTY authentication, configuration save |
 | [16: Test 2 - Access Review Before Go-Live](lesson-16-test-2-access-review-before-go-live.md) | Console authentication, VTY local login, verification and save |
+| [17: Exam - SSH Into the Switch](lesson-17-exam-ssh-into-the-switch.md) | SSH, RSA keys, management SVI, VTY authentication, remote verification |
