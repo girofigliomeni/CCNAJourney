@@ -20,3 +20,4 @@ SwitchLab lessons and Cisco IOS command-line exercises.
 | [12: Security First](lesson-12-security-first.md) | Privileged EXEC password, authentication, `enable secret` |
 | [13: Lock the Door](lesson-13-lock-the-door.md) | `enable secret`, console password, `login`, authentication |
 | [14: Where is the Remote](lesson-14-where-is-the-remote.md) | VTY lines 0–4, remote access password, `login` |
+| [16: Test 2 - Access Review Before Go-Live](lesson-16-test-2-access-review-before-go-live.md) | Console authentication, VTY local login, verification and save |
