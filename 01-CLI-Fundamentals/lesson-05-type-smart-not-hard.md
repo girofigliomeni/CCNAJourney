@@ -48,6 +48,10 @@ The Up arrow recalls earlier commands, which can then be edited rather than rety
 
 The startup configuration is the saved configuration used when the device boots. It can be inspected with `show startup-config`. Saving the active configuration requires a command such as `copy running-config startup-config`.
 
+## Result
+
+Completed the lab successfully, including command abbreviation, Tab completion, command history, and interface-mode navigation.
+
 ## Practice
 
 Entered privileged EXEC mode using a shortened command, explored abbreviated `show` commands, and navigated into interface configuration mode.
